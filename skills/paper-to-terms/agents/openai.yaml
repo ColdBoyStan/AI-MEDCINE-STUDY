@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper to Terms"
+  short_description: "Turn papers into Obsidian notes and terms"
+  default_prompt: "Use $paper-to-terms to convert a paper from 文献库 into an Obsidian literature note and update my terminology library."

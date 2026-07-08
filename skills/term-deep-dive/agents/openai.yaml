@@ -1,0 +1,4 @@
+interface:
+  display_name: "Term Deep Dive"
+  short_description: "Deepen existing Obsidian term notes"
+  default_prompt: "Use $term-deep-dive to deepen an existing Obsidian term note and save a linked study note."

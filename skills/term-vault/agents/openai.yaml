@@ -1,0 +1,4 @@
+interface:
+  display_name: "Term Vault"
+  short_description: "Maintain Obsidian terminology notes"
+  default_prompt: "Use $term-vault to explain a term and save or update it in my Obsidian terminology vault."
